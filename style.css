@@ -77,5 +77,10 @@ font-size: 1.7rem;
 color: white;
 font-weight: 700;
 border: 1px solid black;
+transition-duration: 0.2s;
 }
 
+.tweet-button:hover{
+    background-color: rgba(29, 155, 240, 0.9);
+
+}
